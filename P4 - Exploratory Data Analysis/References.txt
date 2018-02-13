@@ -1,0 +1,10 @@
+Selcted References.
+
+[1] https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+[2] https://cran.r-project.org/web/packages/gridExtra/gridExtra.pdf
+[3] https://cran.r-project.org/web/packages/ggthemes/vignettes/ggthemes.html
+[4] http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/
+[5] https://datavizcatalogue.com/methods/density_plot.html
+[6] https://www.r-bloggers.com/dplyr-example-1/
+[7] http://htmlcolorcodes.com/
+[8] http://waterhouse.ucdavis.edu/@@search?SearchableText=acidity
