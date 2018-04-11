@@ -5,4 +5,4 @@
 * linguist-vendored
 *.py linguist-vendored=false
 *.ipynb linguist-vendored=false
-*.rmd linguist-language=R
+*.R linguist-vendored=false

@@ -23,6 +23,8 @@ This project helped me learn to use plots to understand the distribution of a va
 
 - `Red_Wine_Quality.html` – HTML file knitted from the project file.
 
+- `Red_Wine_Quality.R` - R code extract (with documentation).
+
 - `References.txt` – List of references.
 
 ## Requirements
