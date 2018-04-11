@@ -1,0 +1,8 @@
+# .gitattributes for 'Data-Analyst-Nanodegree'.
+# Repository consists primarily of
+# iPython Notebooks, Python Scripts & RMD files.
+
+* linguist-vendored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
+*.rmd linguist-language=R
